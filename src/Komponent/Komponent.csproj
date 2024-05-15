@@ -1,16 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net7</TargetFrameworks>
-    <LangVersion>8</LangVersion>
-    <Version>2.0.9</Version>
+    <TargetFrameworks>net8</TargetFrameworks>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageOutputPath>..\..\nuget</PackageOutputPath>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageId>Komponent</PackageId>
-    <PackageVersion>2.0.9</PackageVersion>
+    <PackageVersion>2.0.10</PackageVersion>
 
     <Authors>IcySon55;onepiecefreak</Authors>
     <Company>Fan Translators International</Company>
