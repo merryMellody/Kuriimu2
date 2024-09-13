@@ -173,19 +173,19 @@ jobs:
         github_token: ${{ secrets.PRIVATE_ACCESS_TOKEN }}
       
     - name: Upload Windows artifact
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-artifact@v4
       with:
         name: Kuriimu2 Windows
         path: ./dist/final/Windows
         
     - name: Upload Linux artifact
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-artifact@v4
       with:
         name: Kuriimu2 Linux
         path: ./dist/final/Linux
         
     - name: Upload Mac artifact
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-artifact@v4
       with:
         name: Kuriimu2 Mac
         path: ./dist/final/Mac
