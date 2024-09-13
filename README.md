@@ -36,4 +36,4 @@ please refer to our [Wiki](https://github.com/FanTranslatorsInternational/Kuriim
 1. Drag&Drop is currently unsupported on various ArchLinux distributions, including Manjaro.
 
 ## Edit
-Hoping I trigger a build.
+Hoping I trigger a build. Again.
